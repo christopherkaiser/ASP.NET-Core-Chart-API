@@ -1,0 +1,14 @@
+C:\Users\gutte\source\repos\Chart.API\Chart.API\bin\Debug\netcoreapp2.1\Chart.API.deps.json
+C:\Users\gutte\source\repos\Chart.API\Chart.API\bin\Debug\netcoreapp2.1\Chart.API.runtimeconfig.json
+C:\Users\gutte\source\repos\Chart.API\Chart.API\bin\Debug\netcoreapp2.1\Chart.API.runtimeconfig.dev.json
+C:\Users\gutte\source\repos\Chart.API\Chart.API\bin\Debug\netcoreapp2.1\Chart.API.dll
+C:\Users\gutte\source\repos\Chart.API\Chart.API\bin\Debug\netcoreapp2.1\Chart.API.pdb
+C:\Users\gutte\source\repos\Chart.API\Chart.API\obj\Debug\netcoreapp2.1\Chart.API.csprojAssemblyReference.cache
+C:\Users\gutte\source\repos\Chart.API\Chart.API\obj\Debug\netcoreapp2.1\Chart.API.csproj.CoreCompileInputs.cache
+C:\Users\gutte\source\repos\Chart.API\Chart.API\obj\Debug\netcoreapp2.1\Chart.API.RazorAssemblyInfo.cache
+C:\Users\gutte\source\repos\Chart.API\Chart.API\obj\Debug\netcoreapp2.1\Chart.API.RazorAssemblyInfo.cs
+C:\Users\gutte\source\repos\Chart.API\Chart.API\obj\Debug\netcoreapp2.1\Chart.API.AssemblyInfoInputs.cache
+C:\Users\gutte\source\repos\Chart.API\Chart.API\obj\Debug\netcoreapp2.1\Chart.API.AssemblyInfo.cs
+C:\Users\gutte\source\repos\Chart.API\Chart.API\obj\Debug\netcoreapp2.1\Chart.API.RazorTargetAssemblyInfo.cache
+C:\Users\gutte\source\repos\Chart.API\Chart.API\obj\Debug\netcoreapp2.1\Chart.API.dll
+C:\Users\gutte\source\repos\Chart.API\Chart.API\obj\Debug\netcoreapp2.1\Chart.API.pdb
